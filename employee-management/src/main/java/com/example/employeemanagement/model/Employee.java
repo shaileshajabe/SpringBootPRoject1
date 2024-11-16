@@ -22,7 +22,7 @@ public class Employee {
 
 	public void setId(Long id) {
 		this.id = id;
-		int num=0;
+		int num=1;
 	}
 	
 	
